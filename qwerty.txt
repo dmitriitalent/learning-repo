@@ -5,3 +5,5 @@ fast commit change
 changes
 
 unsigned changes 
+
+new change without feature
